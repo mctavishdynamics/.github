@@ -1,1 +1,1 @@
-## McTavish Dynamics 👋
+# Welcome 👋
